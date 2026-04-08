@@ -1,22 +1,20 @@
-# Hello, World! 👋
-# Bem Vindos ao meu GitHub!
+Estou em transição de carreira para a área de desenvolvimento de software, unindo minha formação em **Análise e Desenvolvimento de Sistemas** com uma bagagem profissional sólida em análise de processos, organização, documentação e resolução de problemas reais.
 
-## Português:
-- 👋 Oi, eu sou @ramonmqs
-- 👀 Estou interessado em desenvolvimento backend, mais especificamente com a linguagem Java.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em APIs e Spring Boot.
-- 💞️ Estou procurando colaborar em projetos relacionados a backend.
-- 📫 Você pode me encontrar no LinkedIn: Ramon Marques
-- 😄 Fatos sobre mim: Gosto de tocar violão, brincar com meus cachorros e assistir séries e filmes, mesclando tecnologia e atualidades.
+## Tecnologias em foco
+- Java
+- Spring Boot
+- APIs REST
+- PostgreSQL
+- Git e GitHub
+- SQL
 
+## Atualmente
+- Desenvolvendo projetos backend voltados à solução de problemas reais
+- Aprofundando conhecimentos em arquitetura, APIs e boas práticas
+- Evoluindo minha base em Java e ecossistema Spring
 
-## English:
-- 👋 Hi, I’m @ramonmqs
-- 👀 I’m interested in backend development, specifically with the Java language.
-- 🌱 I’m currently deepening my knowledge in APIs and Spring Boot.
-- 💞️ I’m looking to collaborate on backend-related projects.
-- 📫 How to reach me: Ramon Marques
-- 😄 About me: I enjoy playing the guitar, playing with my dogs, and watching series and movies, blending technology and current affairs.
+## Projeto em destaque
+- Sistema de acompanhamento de licitações, com foco em controle de etapas, prazos e informações críticas
 
-
-Mais informações, dá uma passada la no Linkedin www.linkedin.com/in/ramon-marques-dev
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/ramon-marques-dev/)
